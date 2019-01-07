@@ -13,3 +13,18 @@ Tested on Eagle-7.2 and Eagle-7.7.
 From **PGA103-Eagle-Library/Example/Simple-LNA** folder
 ![alt text](https://github.com/handiko/PGA103-Eagle-Library/blob/master/Pics/Simple-LNA-sch.png)
 ![alt text](https://github.com/handiko/PGA103-Eagle-Library/blob/master/Pics/Simple-LNA-brd.png)
+
+## TODO
+* Make PGA-103 symbol a little bit nicer
+* Make a better example sch / board
+* Adding description to the Device
+* Better documentation / README
+* ...
+
+## Contributing
+1. Fork it
+2. Create new branch
+3. Do some editing / create new feature
+4. Commit your works
+5. Push to the branch
+6. Create a new Pull Request
