@@ -6,5 +6,7 @@ Tested on Eagle-7.2 and Eagle-7.7.
 * `git clone https://github.com/handiko/PGA103-Eagle-Library.git`
 * `cd PGA103-Eagle-Library`
 * Copy the `pga103.lbr` into your Eagle library folder. For example, if your eagle library folder is located in `/opt/eagle-7.2.0/lbr`, then type: `sudo cp pga103.lbr /opt/eagle-7.2.0/lbr`
+* Open the Eagle CAD, then **Library -> Use All**
+* Now the pga103.lbr should be listed in your Eagle library.
 
 ...
