@@ -9,4 +9,4 @@ Tested on Eagle-7.2 and Eagle-7.7.
 * Open the Eagle CAD, then **Library -> Use All**
 * Now the pga103.lbr should be listed in your Eagle library.
 
-...
+## Example
