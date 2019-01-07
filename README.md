@@ -10,3 +10,6 @@ Tested on Eagle-7.2 and Eagle-7.7.
 * Now the pga103.lbr should be listed in your Eagle library.
 
 ## Example
+From **PGA103-Eagle-Library/Example/Simple-LNA** folder
+![alt text](https://github.com/handiko/PGA103-Eagle-Library/blob/master/Pics/Simple-LNA-sch.png)
+![alt text](https://github.com/handiko/PGA103-Eagle-Library/blob/master/Pics/Simple-LNA-brd.png)
