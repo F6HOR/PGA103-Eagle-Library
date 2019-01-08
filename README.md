@@ -22,9 +22,9 @@ From **PGA103-Eagle-Library/Example/Simple-LNA** folder
 * ...
 
 ## Contributing
-1. Fork it
-2. Create new branch
+1. Fork it (https://github.com/handiko/PGA103-Eagle-Library/fork)
+2. Create new branch (`git checkout -b add-blah-blah`)
 3. Do some editing / create new feature
-4. Commit your works
-5. Push to the branch
+4. Commit your works (`git commit -m "Adding some blah blah blah.."`)
+5. Push to the branch (`git push -u origin add-blah-blah`)
 6. Create a new Pull Request
