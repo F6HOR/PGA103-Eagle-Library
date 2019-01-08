@@ -14,6 +14,7 @@ Tested on Eagle-7.2 and Eagle-7.7.
 * Download as zip
 * Unzip
 * copy the `pga103.lbr` into your Eagle library folder, for example : **C:\EAGLE-7.2.0\lbr**
+* Open the Eagle CAD, then **Library -> Use All**
 
 ## Example
 From **PGA103-Eagle-Library/Example/Simple-LNA** folder
