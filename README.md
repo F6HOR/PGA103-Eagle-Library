@@ -2,6 +2,8 @@
 Eagle library for PGA-103 and PGA-103+ component (SOT-89 package).
 Tested on Eagle-7.2 and Eagle-7.7.
 
+PGA-103+ datasheet: https://www.minicircuits.com/pdfs/PGA-103+.pdf
+
 ## Installation
 ### Linux
 * `git clone https://github.com/handiko/PGA103-Eagle-Library.git`
